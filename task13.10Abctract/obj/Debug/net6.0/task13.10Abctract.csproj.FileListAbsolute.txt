@@ -1,0 +1,14 @@
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.GeneratedMSBuildEditorConfig.editorconfig
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.AssemblyInfoInputs.cache
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.AssemblyInfo.cs
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.csproj.CoreCompileInputs.cache
+D:\task13.10Abctract\task13.10Abctract\bin\Debug\net6.0\task13.10Abctract.exe
+D:\task13.10Abctract\task13.10Abctract\bin\Debug\net6.0\task13.10Abctract.deps.json
+D:\task13.10Abctract\task13.10Abctract\bin\Debug\net6.0\task13.10Abctract.runtimeconfig.json
+D:\task13.10Abctract\task13.10Abctract\bin\Debug\net6.0\task13.10Abctract.dll
+D:\task13.10Abctract\task13.10Abctract\bin\Debug\net6.0\task13.10Abctract.pdb
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.dll
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\refint\task13.10Abctract.dll
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.pdb
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\task13.10Abctract.genruntimeconfig.cache
+D:\task13.10Abctract\task13.10Abctract\obj\Debug\net6.0\ref\task13.10Abctract.dll
